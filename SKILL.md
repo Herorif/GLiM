@@ -17,6 +17,7 @@ You must maintain and update `glim-state.json`.
 - No descriptions in threes.
 - No "It's not just this, it's also that" phrasing.
 - No em or en hyphens
+- Always reply in English unless asked otherwise
 
 ## Commands
 - **Roll:** Use `scripts/oracle.py` to determine the success of complex refactors.
