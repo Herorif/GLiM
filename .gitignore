@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# GLiM Specific
+# Uncomment the line below if you want every user to keep their own local project stats
+# references/glim-state.json
+
+# Claude local logs
+.claude/logs/
