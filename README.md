@@ -14,12 +14,13 @@
                | |               [O]               | |
                |_|_________________________________|_|
 ````
+![Image](https://github.com/user-attachments/assets/4bf8749d-a60c-4818-85c2-db26b1b82d43)
 
 **GLiM** is a state-driven development framework that turns your codebase into a living RPG. No more AI "hallucinations"—only deterministic logic, strict engineering stats, and elite aesthetics.
 
 -----
 
-## ⚔️ EQUIP THE SKILL
+## EQUIP THE SKILL
 
 To bind this manifest to your current quest, run the following command in your terminal using Claude Code:
 
@@ -29,7 +30,7 @@ npx skills add [https://github.com/Herorif/GLiM](https://github.com/Herorif/GLiM
 
 -----
 
-## 📊 THE CHARACTER SHEET (`glim-state.json`)
+##  THE CHARACTER SHEET (`glim-state.json`)
 
 Your project is a living entity. Claude tracks these stats to determine its behavior:
 
@@ -41,7 +42,7 @@ Your project is a living entity. Claude tracks these stats to determine its beha
 
 -----
 
-## 📜 QUEST RULES (The Manifest)
+## QUEST RULES (The Manifest)
 
 When **GLiM** is active, Claude inherits the following traits and constraints:
 
@@ -51,7 +52,7 @@ When **GLiM** is active, Claude inherits the following traits and constraints:
 
 -----
 
-## 🎒 INVENTORY (The File Structure)
+## INVENTORY (The File Structure)
 
   * `SKILL.md` — The **Ancient Scroll** (Core Rules & YAML Frontmatter).
   * `scripts/oracle.py` — The **Fate Dice** (Logic Engine).
@@ -60,7 +61,7 @@ When **GLiM** is active, Claude inherits the following traits and constraints:
 
 -----
 
-## 🎮 HOW TO PLAY
+## HOW TO PLAY
 
 1.  **Start a Quest:** *"Claude, add a new login feature. Check Entropy first."*
 2.  **Check the Vibe:** *"Does our UI meet the GLiM Elite Standard? Update the Vibe stat."*
@@ -68,10 +69,10 @@ When **GLiM** is active, Claude inherits the following traits and constraints:
 
 -----
 
-\<p align="center"\>
-\<i\>"May your Vibe be high and your Entropy be low."\</i\><br>
+<p align="center"\>
+<i\>"May your Vibe be high and your Entropy be low."\</i\><br>
 Built with 🕯️ by \<b\>\<a href="https://www.google.com/search?q=https://github.com/Herorif"\>Herorif\</a\>\</b\>
-\</p\>
+</p\>
 
 ```
 ```
