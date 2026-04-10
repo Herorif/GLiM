@@ -46,9 +46,9 @@ Your project is a living entity. Claude tracks these stats to determine its beha
 
 When **GLiM** is active, Claude inherits the following traits and constraints:
 
-  * **🚫 SILENCE LLMISMS:** No flowery language. No "Not only X, but Y." No descriptions in threes. No Oxford comma.
-  * **⚖️ THE ORACLE'S LAW:** For risky refactors, Claude must call `scripts/oracle.py`. If the roll fails, the refactor is aborted.
-  * **🎨 ARTISAN'S TOUCH:** Claude ignores "Generic AI Design." It follows the `ui-style-guide.md` for editorial typography and asymmetrical layouts.
+  * **SILENCE LLMISMS:** No flowery language. No "Not only X, but Y." No descriptions in threes. No Oxford comma.
+  * **THE ORACLE'S LAW:** For risky refactors, Claude must call `scripts/oracle.py`. If the roll fails, the refactor is aborted.
+  * **ARTISAN'S TOUCH:** Claude ignores "Generic AI Design." It follows the `ui-style-guide.md` for editorial typography and asymmetrical layouts.
 
 -----
 
@@ -70,7 +70,7 @@ When **GLiM** is active, Claude inherits the following traits and constraints:
 -----
 
 <p align="center"\>
-<i\>"May your Vibe be high and your Entropy be low."\</i\><br>
+<i\>"May your Vibe be high and your Entropy be low."</i\><br>
 Built with 🕯️ by \<b\>\<a href="https://www.google.com/search?q=https://github.com/Herorif"\>Herorif\</a\>\</b\>
 </p\>
 
