@@ -1,7 +1,23 @@
 # GLiM: The Generative Lightweight Interaction Manifest 🕯️
 
-''text
-''
+Markdown
+# 🕯️ GLiM: The Generative Lightweight Interaction Manifest 🕯️
+
+```text
+       _____________________________________________________
+      /                                                     \
+      |    _____________________________________________    |
+      |   |                                             |   |
+      |   |   > INITIALIZING GLiM PROTOCOL...           |   |
+      |   |   > LOADING ARCHITECT CLASS...              |   |
+      |   |   > ORACLE STATUS: ONLINE                   |   |
+      |   |_____________________________________________|   |
+      \_____________________________________________________/
+               | |                                 | |
+               | |               [O]               | |
+               |_|_________________________________|_|
+```
+
 ![Image](https://github.com/user-attachments/assets/4bf8749d-a60c-4818-85c2-db26b1b82d43)
 
 **GLiM** is a state-driven development framework that turns your codebase into a living RPG. No more AI "hallucinations" but deterministic logic, strict engineering stats and elite aesthetics.
