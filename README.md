@@ -71,7 +71,7 @@ When **GLiM** is active, Claude inherits the following traits and constraints:
 
 <p align="center"\>
 <i\>"May the Oracle be with you"</i\><br>
-Built by \<b\><a href="https://www.google.com/search?q=https://github.com/Herorif">Herorif</a\></b\>
+Built by <b\><a href="https://www.google.com/search?q=https://github.com/Herorif"\>Herorif</a\></b\>
 </p\>
 
 ```
