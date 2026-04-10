@@ -1,8 +1,5 @@
 # GLiM: The Generative Lightweight Interaction Manifest 🕯️
 
-Markdown
-# 🕯️ GLiM: The Generative Lightweight Interaction Manifest 🕯️
-
 ```text
        _____________________________________________________
       /                                                     \
